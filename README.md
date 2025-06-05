@@ -7,3 +7,5 @@ Apply Conditional Formatting to the Number of people column to find out the numb
 Add Data Validation to the Markup percentage column to have any number between 0.1 to 0.5. 
 The Job start date column has been validated to have the Job date after 2015-07-01. Apply the validation (Date/greater than).
 Copy the Job start date column Data Validation to Estimated finish date column.
+## Preview
+![screenshot](screenshot.png)
