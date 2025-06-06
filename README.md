@@ -1,6 +1,7 @@
 # Excel-Data-validation Project
 Jobs-Data with data validation.
 
+# To-Do List
 - Drop-down list to cell M6 (3 states: NSW, QLD, VIC).
 - Formula in cell O6 to calculate the number of jobs in the selected state.
 - Apply a drop-down list to cell N14 (Numbers: 1, 2, 3, …, 9).
